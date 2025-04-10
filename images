@@ -1,1 +1,12 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Community Guardian</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <h1>Community Guardian</h1>
+  <img src="[https://drive.google.com/file/d/1s1Mgqvf9_oVL4f-dyOMRXP_wqN4WSGf9/view?usp=sharing]" alt="Descrição da Imagem">
+  <script src="popup.js"></script>
+</body>
+</html>
